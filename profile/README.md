@@ -26,5 +26,7 @@ Based in Caldwell, Idaho. Learn more at [alcohq.com](https://alcohq.com/).
   <a href="https://www.linkedin.com/company/alcohqofficial/"><img alt="ALCO on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   <a href="https://www.facebook.com/alcohqofficial"><img alt="ALCO on Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
   <a href="https://www.youtube.com/@alcohqofficial"><img alt="ALCO on YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  <a href="https://www.instagram.com/alcohqofficial/"><img alt="ALCO on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  <a href="https://www.reddit.com/user/alcohqofficial/"><img alt="ALCO on Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white"></a>
 </p>
 
