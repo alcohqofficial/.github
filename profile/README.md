@@ -1,32 +1,11 @@
-<h1 align="center">ALCO USA Inc</h1>
+# Technology, thoughtfully handled.
 
+Websites. Hosting. IT support.
 
-<p align="center"><strong>Technology built for your business.</strong><br>Managed IT · Hosting · Development · Help Desk</p>
+ALCO is a family-owned technology company in Caldwell, Idaho. We help businesses build and care for the technology they use every day.
 
+Our work includes websites and applications, managed hosting, and IT and help desk support. We start with your needs, agree the scope and next steps, and keep the work clearly documented.
 
-<p align="center"><a href="https://alcohq.com/">Website</a> · <a href="https://alcohq.com/contact">Contact ALCO</a> · <a href="mailto:info@alcohq.com">info@alcohq.com</a></p>
+[Explore ALCO](https://alcohq.com/) · [Start a conversation](https://alcohq.com/contact) · [info@alcohq.com](mailto:info@alcohq.com)
 
-
----
-
-
-## What we do
-
-
-ALCO USA Inc helps businesses and organizations run, improve, and build their technology. We bring managed IT, hosting, website and application development, and responsive help desk support together through one accountable team.
-
-
-Our work begins with understanding each client’s environment and priorities. From there, we help keep systems dependable, support the people who use them, and build what comes next.
-
-
-Based in Caldwell, Idaho. Learn more at [alcohq.com](https://alcohq.com/).
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/company/alcohqofficial/"><img alt="ALCO on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
-  <a href="https://www.facebook.com/alcohqofficial"><img alt="ALCO on Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
-  <a href="https://www.youtube.com/@alcohqofficial"><img alt="ALCO on YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
-  <a href="https://www.instagram.com/alcohqofficial/"><img alt="ALCO on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
-  <a href="https://www.reddit.com/user/alcohqofficial/"><img alt="ALCO on Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white"></a>
-</p>
-
+[LinkedIn](https://www.linkedin.com/company/alcohqofficial/) · [Facebook](https://www.facebook.com/alcohqofficial) · [Instagram](https://www.instagram.com/alcohqofficial/) · [YouTube](https://www.youtube.com/@alcohqofficial) · [Reddit](https://www.reddit.com/user/alcohqofficial/)
